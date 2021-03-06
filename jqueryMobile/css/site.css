@@ -1,0 +1,12 @@
+.right {
+    float: right;
+
+}
+
+* {
+    outline: none;
+}
+
+.main {
+    padding: 50%;
+}
